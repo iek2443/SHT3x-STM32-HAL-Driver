@@ -38,7 +38,7 @@ extern I2C_HandleTypeDef hi2c3;
 ```c
 I2C_HandleTypeDef *port = &hi2c3; // This must match the I2C handle defined in your .h file
 ```
-###🚀 Usage Example
+##🚀 Usage Example
 ```c
 #include "SHT3X_DRIVER.h"
 
