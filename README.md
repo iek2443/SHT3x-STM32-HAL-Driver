@@ -1,0 +1,1 @@
+# SHT3x-STM32-HAL-Driver
